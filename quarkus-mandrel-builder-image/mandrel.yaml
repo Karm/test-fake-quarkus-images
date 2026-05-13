@@ -1,0 +1,9 @@
+images:
+  - graalvm-version: 23.1.10.0-Final
+    java-version: 21
+    tags: 23.1-java21, jdk-21.0.10
+    variants:
+      - sha: fakesha12345
+        arch: amd64
+      - sha: fakesha67890
+        arch: arm64
