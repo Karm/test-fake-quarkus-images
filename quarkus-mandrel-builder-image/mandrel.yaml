@@ -8,11 +8,11 @@ images:
         arch: amd64
       - sha: a32645a6e858b64c191f5289dab8ef742c46b47253e72c7748e03fbaaaffc4c1kesha67890
         arch: arm64
-  - graalvm-version: 25.0.4.0-Final
+  - graalvm-version: 25.0.4.1-Final
     java-version: 25
-    tags: 25.0-java25, jdk-25.0.4
+    tags: 25.0-java25, jdk-25.0.4.1
     variants:
-      - sha: fakesha12345
+      - sha: e47ff6bfe6a8dbb482fdc65c9a49fc6f3ba2fa61ef3cc8fb6229a88989054c31kesha12345
         arch: amd64
-      - sha: fakesha67890
+      - sha: 86033db0337ba64694a1f3680b991b671ba26d192f26fd525e39b714847fbf20kesha67890
         arch: arm64
